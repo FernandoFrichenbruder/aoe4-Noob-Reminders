@@ -1,0 +1,83 @@
+{
+    "maps": [
+      {
+        "water": [
+          {
+            "normal": [
+              {
+                "60000": "Make boats",
+                "90000": "Scout the opponent's dock",
+                "140000": "Force food delivery and make Kremlin",
+                "155000": "Go scout the opponent's base",
+                "210000": "Don't stop producing villagers and boats",
+                "270000": "Transform fishing boat for haraas",
+                "330000": "Send militia to attack the wood",
+                "360000": "Don't stop producing villagers and boats",
+                "390000": "Produce stable and archery for defense",
+                "450000": "More militia to attack the opponent's wood",
+                "480000": "Start saving resources to advance to the next age",
+                "600000": "Advance to the next age",
+                "720000": "Have you advanced to the next age yet?"
+              }
+            ],
+            "haraas": [
+              {
+                "60000": "Make boats",
+                "90000": "Scout the opponent's dock",
+                "140000": "Force food delivery and make Kremlin",
+                "155000": "Go scout the opponent's base",
+                "210000": "Don't stop producing villagers and boats",
+                "270000": "Transform fishing boat for haraas",
+                "330000": "Send militia to attack the wood",
+                "360000": "Don't stop producing villagers and boats",
+                "390000": "Produce stable and archery",
+                "450000": "More militia and troops to attack the opponent's wood",
+                "480000": "Start saving resources to advance to the next age",
+                "600000": "Advance to the next age",
+                "720000": "Have you advanced to the next age yet?"
+              }
+            ]
+          }
+        ],
+        "land": [
+          {
+            "normal": [
+              {
+                "140000": "Force food delivery and make Kremlin",
+                "150000": "Go scout the opponent's base",
+                "210000": "Don't stop producing villagers",
+                "240000": "Don't forget the wheelbarrow",
+                "300000": "Send militia to attack",
+                "320000": "Check Stone!",
+                "340000": "Don't forget hunting upgrade",
+                "360000": "Take the Second TC",
+                "390000": "Produce stable and archery for defense",
+                "480000": "Start saving resources to advance to the next age",
+                "600000": "Advance to the next age",
+                "720000": "Have you advanced to the next age yet?"
+              }
+            ],
+            "haraas": [
+              {
+                "140000": "Force food delivery and make Kremlin",
+                "150000": "Go scout the opponent's base",
+                "210000": "Don't stop producing villagers",
+                "240000": "Don't forget the wheelbarrow",
+                "270000": "Produce stable",
+                "300000": "Send militia to attack",
+                "360000": "Make 2 archeries",
+                "380000": "Check Stone!",
+                "400000": "Don't forget hunting upgrade",
+                "480000": "Take the Second TC",
+                "510000": "Research battle ram",
+                "600000": "Start saving resources to advance to the next age",
+                "720000": "Advance to the next age",
+                "840000": "Have you advanced to the next age yet?"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
